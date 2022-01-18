@@ -1,0 +1,180 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "Deps": [
+        1
+      ],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "Il2Cpp C:/workspace/spinect/Alpha/Library/Il2cppBuildCache/UWP/x64/il2cppOutput",
+      "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2020.3.10f1\\Editor\\Data\\il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe\" --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --incremental-g-c-time-slice=3 --baselib-directory=\"Temp\\StagingArea\\Il2CppOutputProject\\IL2CPP\\build\\baselib\\x64\\Release\" --avoid-dynamic-library-copy --profiler-report --map-file-parser=\"C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe\" --directory=C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed --generatedcppdir=C:/workspace/spinect/Alpha/Library/Il2cppBuildCache/UWP/x64/il2cppOutput",
+      "Inputs": [
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/I18N.CJK.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/I18N.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/I18N.MidEast.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/I18N.Other.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/I18N.Rare.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/I18N.West.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/MathNet.Numerics.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.OpenXR.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Async.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Gltf.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Providers.OpenXR.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.Shared.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Providers.WindowsSceneUnderstanding.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Providers.WindowsVoiceInput.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Providers.XRSDK.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Providers.XRSDK.WindowsMixedReality.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.SDK.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.CameraSystem.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.DiagnosticsSystem.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.InputAnimation.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.InputSimulation.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.InputSystem.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.SceneSystem.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.TeleportSystem.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Mono.Security.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/mscorlib.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/netstandard.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/System.Configuration.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/System.Core.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/System.Diagnostics.StackTrace.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/System.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/System.Globalization.Extensions.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/System.IO.Compression.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/System.Numerics.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/System.Numerics.Vectors.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/System.ObjectModel.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/System.Runtime.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/System.Runtime.InteropServices.WindowsRuntime.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/System.Runtime.Serialization.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/System.Runtime.Serialization.Xml.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/System.Runtime.WindowsRuntime.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/System.Runtime.WindowsRuntime.UI.Xaml.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/System.Xml.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/System.Xml.XPath.XDocument.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Unity.InputSystem.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Unity.XR.ARFoundation.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Unity.XR.ARSubsystems.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Unity.XR.Management.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.Features.ConformanceAutomation.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.Features.MockDriver.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.Features.MockRuntime.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.Features.OculusQuestSupport.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.Features.RuntimeDebugger.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.AIModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.AnimationModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.ARModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.AssetBundleModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.AudioModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.CoreModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.DirectorModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.GridModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.ImageConversionModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.InputModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.JSONSerializeModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.ParticleSystemModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.SpatialTracking.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.SubsystemsModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.TerrainModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.TextCoreModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.TilemapModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsNativeModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.UIModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.VFXModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.VideoModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.VRModule.dll",
+        "C:/workspace/spinect/Alpha/Temp/StagingArea/Data/Managed/UnityEngine.XRModule.dll"
+      ],
+      "Outputs": [],
+      "TargetDirectories": [
+        "C:/workspace/spinect/Alpha/Library/Il2cppBuildCache/UWP/x64/il2cppOutput"
+      ],
+      "PassIndex": 0,
+      "Deps": [],
+      "OverwriteOutputs": false,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 1
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "../../../../Temp/StagingArea/Data/Managed"
+    },
+    {
+      "File": "artifacts/buildprogram/tundra_buildprogram.dag.json"
+    },
+    {
+      "File": "il2cpp_settings.json"
+    },
+    {
+      "File": "unitylinker_settings.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "../../../../Temp/StagingArea/Data/Managed"
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".txt",
+    ".c",
+    ".cpp",
+    ".h",
+    ".cs",
+    ".hpp"
+  ],
+  "StructuredLogFileName": "artifacts/tundra.log.json",
+  "StateFileName": "artifacts/TundraBuildState.state",
+  "StateFileNameTmp": "artifacts/TundraBuildState.state.tmp",
+  "ScanCacheFileName": "artifacts/tundra.scancache",
+  "ScanCacheFileNameTmp": "artifacts/tundra.scancache.tmp",
+  "DigestCacheFileName": "artifacts/tundra.digestcache",
+  "DigestCacheFileNameTmp": "artifacts/tundra.digestcache.tmp",
+        "NamedNodes": {
+          "all_tundra_nodes": 0
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "artifacts/tundra.dag.json",
+  "BuildTitle": "Bee",
+  "RelativePathToRoot": ".."
+}
